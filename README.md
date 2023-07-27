@@ -9,6 +9,12 @@ Images: The repository includes the necessary image files, such as the Amazon lo
 
 Responsive Design: The code is optimized for responsive web design, ensuring that the page layout adapts well to desktop screen size only.
 
+![Screenshot 2023-06-17 033708](https://github.com/Ujjwal1178/Amazon_Homepage_Clone/assets/109898637/74e78858-28e0-4db5-a768-664e0252a81e)
+
+
+
+![Screenshot 2023-06-17 034347](https://github.com/Ujjwal1178/Amazon_Homepage_Clone/assets/109898637/eb09a408-5976-481e-8151-ccdd61abcecc)
+
 
 ![Screenshot 2023-06-17 034631](https://github.com/Ujjwal1178/Amazon_Homepage_Clone/assets/109898637/891db360-8964-443a-8bcc-612616ee8205)
 
